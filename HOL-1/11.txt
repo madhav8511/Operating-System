@@ -1,0 +1,4 @@
+Start
+Another dup
+Through dup2
+EXIT
