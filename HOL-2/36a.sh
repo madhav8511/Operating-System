@@ -1,0 +1,3 @@
+#Create fifo file using mknod....
+
+mknod -m 0744 fifo36a p
